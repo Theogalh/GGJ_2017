@@ -1,0 +1,3 @@
+Ouvrez un terminal UNIX dans ce dossier et effectuer la commandes make re.
+Le programme compilé se trouves dans release à la racine du projet sous le nom "Beat the Wave Linux Edition".
+Nécéssites la librairie SFML pour fonctionner
