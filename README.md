@@ -4,7 +4,7 @@ Premier Proto du jeu, sortie pour la Global Game Jam.
 
 Contexte de developpement :
 
-SFML Imposée, Projet uniquement développé par un groupe de 3 developpeurs d'Epitech en début de deuxieme année.
+SFML ImposÃ©e, Projet uniquement dÃ©veloppÃ© par un groupe de 3 developpeurs d'Epitech en dÃ©but de deuxieme annÃ©e.
 
 
 Contenus 1.0:
@@ -23,24 +23,24 @@ Contenus 1.0:
 
 - Creation de vagues de bombes tombant rapidement sur le joueur.
 
-- Selection aléatoire des niveaux dans le dossier /src/map
+- Selection alÃ©atoire des niveaux dans le dossier /src/map
 
-- Possibilité de niveau " Bonus " avec une marre de lave qui monte et tue le joueur au contact.
+- PossibilitÃ© de niveau " Bonus " avec une marre de lave qui monte et tue le joueur au contact.
 
 - Gestion du score:
-		- 100 points à chaque niveau terminé
-		- 150 points à chaque niveau bonus terminé
+		- 100 points Ã  chaque niveau terminÃ©
+		- 150 points Ã  chaque niveau bonus terminÃ©
 
 - Sauvegarde du HighScore ( NON SECURISER )
 
 - Gestion des touches:
-	Deplacement avec flèche gauche/droites
-	Saut avec la flèche du haut
+	Deplacement avec flÃ¨che gauche/droites
+	Saut avec la flÃ¨che du haut
 	Echap pour quitter
 	A pour se suicider
 
 BUGS Connus :
 
-- Problème de hitbox en cas de bloc unique en plateforme.
+- ProblÃ¨me de hitbox en cas de bloc unique en plateforme.
 
-- Impossible de sauter s'il n'y a pas de plateforme a la première lige en partant du bas.
+- Impossible de sauter s'il n'y a pas de plateforme Ã  la premiÃ¨re ligne en partant du bas.
